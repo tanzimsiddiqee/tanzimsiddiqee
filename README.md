@@ -1,6 +1,6 @@
 [![Tanzim's GitHub Banner](./assets/GitHubHeader.jpg)](https://tansiddiqee.me)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:tansiddiqee.me)
 [![Twitter Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://facebook.com/tanzimsiddiqee/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tanzimsiddiqee/)
 [![CodePen Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=black)](https://stackoverflow.com/users/12519923/tanzim-siddiqee)
