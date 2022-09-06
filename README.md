@@ -19,11 +19,11 @@ Want to know more about me? [Check out my portfolio.](https://tansiddiqee.me/)
 <br>
 
 <a href="https://github.com/tanzimsiddiqee">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimsiddiqee&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimsiddiqee&hide=html,css&cache_seconds=86400&theme=blue-green" />
 </a>
 
 <a href="https://github.com/tanzimsiddiqee">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tanzimsiddiqee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Tanzim's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tanzimsiddiqee&show_icons=true&line_height=27&cache_seconds=86400&theme=blue-green" alt="Tanzim's GitHub Stats" />
 </a>
 
 <br>
@@ -34,21 +34,21 @@ Want to know more about me? [Check out my portfolio.](https://tansiddiqee.me/)
 <br>
 
 <a href="https://github.com/tanzimsiddiqee/Harris-Corner-Detection-and-its-variants">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzimsiddiqee&repo=Harris-Corner-Detection-and-its-variants&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzimsiddiqee&repo=Harris-Corner-Detection-and-its-variants&cache_seconds=86400&theme=blue-green" />
 </a>
 
 <a href="https://github.com/tanzimsiddiqee/StudyMaterialsSharingSystem">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzimsiddiqee&repo=StudyMaterialsSharingSystem&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzimsiddiqee&repo=StudyMaterialsSharingSystem&cache_seconds=86400&theme=blue-green" />
 </a>
 
 <br>
 
 <a href="https://github.com/tanzimsiddiqee/rms">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzimsiddiqee&repo=rms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzimsiddiqee&repo=rms&cache_seconds=86400&theme=blue-green" />
 </a>
 
 <a href="https://github.com/tanzimsiddiqee/tanzimsiddiqee">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzimsiddiqee&repo=tanzimsiddiqee&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzimsiddiqee&repo=tanzimsiddiqee&cache_seconds=86400&theme=blue-green" />
 </a>
 
 <br>
