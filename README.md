@@ -10,9 +10,24 @@ I’m @tanzimsiddiqee, a full-stack engineer, creative coder and self-proclaimed
 
 Want to know more about me? [Check out my portfolio.](https://tansiddiqee.me/)
 
-## <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M290.7 311L95 269.7 86.8 309l195.7 41zm51-87L188.2 95.7l-25.5 30.8 153.5 128.3zm-31.2 39.7L129.2 179l-16.7 36.5L293.7 300zM262 32l-32 24 119.3 160.3 32-24zm20.5 328h-200v39.7h200zm39.7 80H42.7V320h-40v160h359.5V320h-40z"/></svg> Stack-Overflow Reputation & Badges
+## 🎫 Stack-Overflow Reputation & Badges
 
-<a href="https://stackexchange.com/users/17287661?theme=clean"><img src="https://stackexchange.com/users/flair/17287661.png" width="208" height="58" alt="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/17287661"><img src="https://stackexchange.com/users/flair/17287661.png?theme=dark" width="208" height="58" alt="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/tanzimsiddiqee">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimsiddiqee&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/tanzimsiddiqee">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tanzimsiddiqee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Tanzim's GitHub Stats" />
+</a>
+
+<br>
+<br>
 
 ## 📌 Pinned Repositories
 
@@ -34,21 +49,6 @@ Want to know more about me? [Check out my portfolio.](https://tansiddiqee.me/)
 
 <a href="https://github.com/tanzimsiddiqee/tanzimsiddiqee">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tanzimsiddiqee&repo=tanzimsiddiqee&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/tanzimsiddiqee">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimsiddiqee&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/tanzimsiddiqee">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tanzimsiddiqee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Tanzim's GitHub Stats" />
 </a>
 
 <br>
