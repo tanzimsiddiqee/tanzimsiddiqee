@@ -1,6 +1,5 @@
 [![Tanzim's GitHub Banner](./assets/GitHubHeader.jpg)](https://tansiddiqee.me)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:tansiddiqee.me)
 [![Twitter Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://facebook.com/tanzimsiddiqee/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tanzimsiddiqee/)
 [![CodePen Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=black)](https://stackoverflow.com/users/12519923/tanzim-siddiqee)
@@ -10,6 +9,8 @@ Hey there 👋
 I’m @tanzimsiddiqee, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 Want to know more about me? [Check out my portfolio.](https://tansiddiqee.me/)
+
+<a href="https://stackexchange.com/users/17287661"><img src="https://stackexchange.com/users/flair/17287661.png" width="208" height="58" alt="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## 📌 Pinned Repositories
 
