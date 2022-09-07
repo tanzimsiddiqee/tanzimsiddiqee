@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://tansiddiqee.me/)
 
 ## 🎫 Stack-Overflow Reputation & Badges
 
-<a href="https://stackexchange.com/users/17287661"><img src="https://stackexchange.com/users/flair/17287661.png?theme=dark" width="208" height="58" alt="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/12519923/tanzim-siddiqee"><img src="https://stackexchange.com/users/flair/17287661.png?theme=dark" width="208" height="58" alt="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tanzim Siddiqee on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## &#x1f4c8; GitHub Stats
 
